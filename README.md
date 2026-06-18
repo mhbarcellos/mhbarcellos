@@ -1,4 +1,4 @@
-# Olá, eu sou a Helena 👋
+# Olá, eu sou a Maria Helena 👋
 
 Sou estudante de **Engenharia da Computação** e tenho foco em **desenvolvimento back-end**, **APIs**, **banco de dados**, **sistemas embarcados** e **soluções com inteligência artificial**.
 
