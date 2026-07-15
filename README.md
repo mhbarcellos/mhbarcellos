@@ -83,14 +83,8 @@ Tenho desenvolvido projetos e estudos envolvendo:
 * Testes automatizados
 * Integração e publicação de aplicações
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mhbarcellos\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbarcellos\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Helena_Barcellos-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maria-helena-barcellos-8160091b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Helena_Barcellos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-helena-barcellos-8160091b3/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-mhbarcellos-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mhbarcellos)
+[![GitHub](https://img.shields.io/badge/GitHub-mhbarcellos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhbarcellos)
